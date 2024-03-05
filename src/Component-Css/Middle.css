@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+#middle{
+    display: flex;
+    height: fit-content;
+}
+
+#middle-1{
+    width: 40%;
+    font-family: 'Rubik',sans-serif;
+    font-weight: 400;
+    padding-left:10%;
+    font-size: 25px;
+    padding-top:5%;
+}
+
+#Line-1{
+    font-size: 50px;
+}
+
+#middle-2{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+}
+
+#Me{
+    height:50%;
+    border-radius: 50%;
+    padding-left: 20%;
+}
+
+#Links img{
+    width:30px;
+    height: 30px;
+    padding-left: 8%;
+    padding-top: 15%;
+    cursor: pointer;
+}
+
+
+
+
+
